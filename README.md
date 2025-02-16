@@ -7,3 +7,10 @@ This project is a Next.js application powered by Redux Toolkit and TypeScript, p
 📌 TypeScript – Type safety for better development experience
 💡 RTK Query – Data fetching with caching & revalidation
 🎨 Tailwind CSS (optional) – For styling
+/src  
+  ├── components/       # Reusable components  
+  ├── store/           # Redux store configuration  
+  ├── slices/          # Redux slices  
+  ├── pages/           # Next.js pages  
+  ├── styles/          # Global styles  
+  ├── utils/           # Helper functions  
