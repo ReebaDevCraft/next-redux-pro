@@ -14,3 +14,9 @@ This project is a Next.js application powered by Redux Toolkit and TypeScript, p
   ├── pages/           # Next.js pages  
   ├── styles/          # Global styles  
   ├── utils/           # Helper functions  
+🔗 Tech Stack
+Next.js
+Redux Toolkit
+RTK Query
+TypeScript
+Tailwind CSS
